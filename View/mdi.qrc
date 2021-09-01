@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.png</file>
+        <file>icons/icon_execute.png</file>
+        <file>icons/icon_exit.png</file>
+        <file>icons/icon_lexico.png</file>
+        <file>icons/icon_new.png</file>
+        <file>icons/icon_open.png</file>
+        <file>icons/icon_save.png</file>
+        <file>icons/icon_saveAs.png</file>
+        <file>icons/icon_sintatico.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/icon_qt.png</file>
+    </qresource>
+</RCC>

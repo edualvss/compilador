@@ -1,0 +1,45 @@
+void teste() { // Inicio 1
+ 
+  float a,b,c;
+
+	{ // Inicio 2
+    int d;
+  } // Fim 2
+} // Fim 1
+
+float ttt() { // Inicio 3
+ char* bb;
+ { // inicio 4
+  char z,c;
+ } // fim 4
+
+ { // inicio 5
+		for(int a = 0; a < 10; a++) { //inicio 6
+      printf(a);
+		} // fim 6
+		if(x == b) { // inicio 7
+     scanf(x);
+		} // fim 7
+ } // fim 5
+} // fim 3
+
+int main() { //inicio 8
+
+  int a = 1, b, c;
+
+  c = 1;
+
+	c += 10;
+
+  b++;
+
+  char* teste;
+
+  scanf(b);
+
+	{ // inicio 9
+    char d,b,f=10;
+  } // fim 9
+
+  return 0;
+} // fim 8

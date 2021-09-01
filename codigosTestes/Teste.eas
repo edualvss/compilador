@@ -1,0 +1,21 @@
+int main() { 
+
+  int a = 1, b=a+1, c;
+
+  c = 1;
+
+	c += 10;
+
+  b++;
+
+
+  char* teste;
+
+  scanf(b);
+	printf(b);
+	{ 
+    char d,b,f=10;
+  } 
+
+  return 0;
+} 

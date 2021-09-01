@@ -1,0 +1,57 @@
+void teste() {
+ 
+  float a,b,c;
+  int a;
+
+	bool afv = true;
+	{
+    int d;
+  } 
+} 
+
+float ttt() { 
+ char* bb;
+ { 
+   char z,c;
+   if(true) {
+     z = 't';
+   }
+ } 
+
+	int a;
+
+  a = 1;
+
+ { 
+		for(int a = 0; a < 10; a++) { 
+
+		} 
+		if(x == b) { 
+     scanf(x);
+		} 
+ } 
+}
+
+int main() { 
+
+  int a = a + 1, b, c;
+
+  c = 1;
+
+	c += 10;
+
+  b++;
+
+
+  char* teste;
+
+  scanf(b);
+	printf(b);
+	{ 
+    char d,b,f=10;
+  } 
+
+	char* nome = "Eduardo";
+
+  return 0;
+} 

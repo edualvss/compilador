@@ -1,0 +1,11 @@
+int main() {
+
+	int i, TAM = 5;
+	for(i = 0; i < TAM; i++) {
+		int x;
+		for(x = 0; x < TAM; x++) {
+			printf(i+x);
+		}
+	}
+
+}

@@ -1,0 +1,14 @@
+int main() {
+	
+	int i = 1;
+
+	if( i > 0) {
+		printf(i);
+	}
+	if( i != 10) {
+		printf(i+1);
+	} else {
+		printf(i);
+	}
+
+}

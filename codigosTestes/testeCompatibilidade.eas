@@ -1,0 +1,19 @@
+int main() {
+
+	int a = 10;
+
+
+	if( 10 < 11 ) {
+		printf(2);
+	}
+
+	while( a == 3 ) {
+		do {
+			int i;
+			for(i = 0; i < 5; i++) {
+				printf(i);
+			}
+		}while( a != 10 );
+	}
+ 
+}
